@@ -1,77 +1,63 @@
-<div align="center">
-  <h1>👋 Hello, I'm Reynaldo!</h1>
-  <p>Welcome to my GitHub profile! I'm a passionate programmer with a deep curiosity for learning and a love for technology.</p>
-  <p>I enjoy taking on challenging projects that allow me to grow, improve my skills, and create impactful solutions.</p>
-  <p>My goal is to continuously expand my knowledge and make meaningful contributions through technology.</p>
-</div>
-
-<br>
-
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>👋 Hello, I'm Reynaldo!</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;**Passionate about building web applications** that solve real problems and make people’s lives easier.\
+🎓 &nbsp;**Software Engineering student**, focused on becoming a **Full-Stack Developer**.\
+☕ &nbsp;Currently learning **Back-End development** with `Java`, `Spring Boot`, `SQL Server`, and `MySQL`.\
+🖥️ &nbsp;I also enjoy working on the **Front-End** with `HTML`, `CSS`, and `JavaScript`.\
+🚀 &nbsp;Always aiming to create **scalable, efficient, and clean** software systems.\
+💬 &nbsp;I love talking about **programming**, **clean architecture**, and **tech in general** — feel free to reach out if you want to chat or collaborate!\
+📫 &nbsp;Reach me at **rey.alexisamparo@gmail.com**.\
+📄 &nbsp;Check out my [Résumé](#) to learn more about my experience and projects.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="230em"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+<!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; -->
+![Java](https://img.shields.io/badge/-☕%20Java-05122A?style=flat&logoColor=FFA518)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQL Server](https://img.shields.io/badge/-💾%20SQL%20Server-05122A?style=flat)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=2B8BFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
+<!--![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<!-- Estadísticas generales centradas -->
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/ReynaldoGithubb">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReynaldoGithubb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
 </p>
+
+<!-- Lenguajes más usados alineados a la izquierda -->
+<p align="left">
+  <a href="https://github.com/ReynaldoGithubb">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReynaldoGithubb&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://github.com/ReynaldoGithubb"><img src="https://img.shields.io/badge/-ReynaldoGithubb-05122A?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/reynaldoamparo"><img src="https://img.shields.io/badge/-Reynaldo%20Amparo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:reynaldo@example.com"><img src="https://img.shields.io/badge/-rey.alexisamparo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/reynaldodev/"><img src="https://img.shields.io/badge/-@3kk0.exe-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
