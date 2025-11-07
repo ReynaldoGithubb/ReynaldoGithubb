@@ -11,7 +11,6 @@
 🚀 &nbsp;Always aiming to create **scalable, efficient, and clean** software systems.\
 💬 &nbsp;I love talking about **programming**, **clean architecture**, and **tech in general** — feel free to reach out if you want to chat or collaborate!\
 📫 &nbsp;Reach me at **rey.alexisamparo@gmail.com**.\
-📄 &nbsp;Check out my [Résumé](#) to learn more about my experience and projects.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="230em"/>
 
